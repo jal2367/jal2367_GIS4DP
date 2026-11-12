@@ -5,8 +5,8 @@
 type: map
 id: full-page
 config:
-  mapStyle: "https://tiles.openfreemap.org/styles/positron"
-  center: [-73.9654, 40.7829]
+  mapStyle: "dark_matter.json"
+  center: [-73.97228, 40.74921]
   zoom: 12.5
 
 # MapLibre's own buttons. `navigation` adds zoom in/out and a compass (click
